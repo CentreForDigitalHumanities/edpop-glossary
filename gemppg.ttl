@@ -1,0 +1,175 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/abecedarium/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Abecedarium" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/almanac/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Almanac" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/aviso/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Aviso" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/ballad/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:altLabel "Cantari",
+        "Song/Song book" ;
+    skos:prefLabel "Ballad" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/book-of-secrets/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:altLabel "Recipe book" ;
+    skos:prefLabel "Book of secrets" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/broadsheet-broadside/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Broadsheet (broadside)" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/catechism-primer/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:altLabel "Rooster primer" ;
+    skos:prefLabel "Catechism primer" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/catechism/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Catechism" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/chapbook/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Chapbook" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/childrens-book-and-schoolbook/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:altLabel "Schoolbook" ;
+    skos:prefLabel "Children's book and schoolbook" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/chronicle-chronology/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Chronicle/Chronology" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/cookbook/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Cookbook" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/coranto/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Coranto" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/criminal-narrative/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Criminal narrative" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/devotional-literature/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Devotional literature" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/form/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:altLabel "Indulgence" ;
+    skos:prefLabel "Form" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/game-printed-on-paper/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Game (printed on paper)" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/gazette/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Gazette" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/herbal/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Herbal" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/history/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:altLabel "Narrative" ;
+    skos:prefLabel "History" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/hornbook/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:altLabel "Battledore" ;
+    skos:prefLabel "Hornbook" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/household-manual/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Household manual" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/how-to-book/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "How-to book" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/jestbook/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Jestbook" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/journal/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Journal" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/libel-pasquil/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:altLabel "Pasquil" ;
+    skos:prefLabel "Libel/pasquil" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/lottery-ticket/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Lottery ticket" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/martyr-story/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Martyr story" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/medical-literature/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Medical literature" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/mercury/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Mercury" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/new-year-prints/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "New Year prints" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/news-pamphlet/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:altLabel "Canard",
+        "History print" ;
+    skos:prefLabel "News pamphlet" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/newsbook/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Newsbook" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/newspaper/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Newspaper" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/nouvelle/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Nouvelle" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/pamphlet/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Pamphlet" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/penny-print/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Penny print" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/plague-sheet-book/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Plague sheet/book" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/playbill/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Playbill/Playbook" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/prayer-book/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Prayer book" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/proclamation/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:altLabel "Ordinance" ;
+    skos:prefLabel "Proclamation" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/prognostication/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Prognostication" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/regimen-book/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Regimen book" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/relation/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Relation" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/report/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Report" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/romance/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:altLabel "Novel",
+        "Prose romance" ;
+    skos:prefLabel "Romance" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/rooster-primer-2/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Rooster primer" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/saints-life/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:altLabel "Lives of saints" ;
+    skos:prefLabel "Saint's life" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/sermon/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Sermon" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/tidings/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Tidings" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/topical-poetry/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:altLabel "News poem" ;
+    skos:prefLabel "Topical poetry" .
+
+<https://popular-print-glossary.sites.uu.nl/glossary/travel-accounts-and-guides/> rdfs:member <https://popular-print-glossary.sites.uu.nl/glossary/> ;
+    skos:prefLabel "Travel accounts and guides" .
+
